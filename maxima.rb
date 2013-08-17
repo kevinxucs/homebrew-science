@@ -2,8 +2,8 @@ require 'formula'
 
 class Maxima < Formula
   homepage 'http://maxima.sourceforge.net/'
-  url 'http://downloads.sourceforge.net/project/maxima/Maxima-source/5.28.0-source/maxima-5.28.0.tar.gz'
-  sha1 '52d7dad4681711a6ead73b72835b177107363b9c'
+  url 'http://downloads.sourceforge.net/project/maxima/Maxima-source/5.30.0-source/maxima-5.30.0.tar.gz'
+  sha1 'ae009d71524f55264b346b03dac8e504e3b18ac0'
 
   depends_on 'gettext'
   depends_on 'sbcl'
